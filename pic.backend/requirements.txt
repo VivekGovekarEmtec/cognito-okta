@@ -1,0 +1,13 @@
+sqlalchemy~=2.0.23
+mangum~=0.17.0
+fastapi~=0.104.1
+pydantic~=1.10.13
+jinja2~=3.1.2
+boto3~=1.33.5
+psycopg2
+aws-lambda-powertools[parser]
+starlette~=0.27.0
+pymemcache~=4.0.0
+XlsxWriter~=3.1.9
+python-multipart
+openpyxl~=3.1.2
